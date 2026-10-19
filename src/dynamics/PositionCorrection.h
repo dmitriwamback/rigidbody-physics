@@ -1,0 +1,13 @@
+//
+// Created by Dmitri on 2026-10-19.
+//
+
+#ifndef RIGIDBODIES_POSITIONCORRECTION_H
+#define RIGIDBODIES_POSITIONCORRECTION_H
+
+
+class PositionCorrection {
+};
+
+
+#endif //RIGIDBODIES_POSITIONCORRECTION_H

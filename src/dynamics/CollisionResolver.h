@@ -1,0 +1,13 @@
+//
+// Created by Dmitri on 2026-10-19.
+//
+
+#ifndef RIGIDBODIES_COLLISIONRESOLVER_H
+#define RIGIDBODIES_COLLISIONRESOLVER_H
+
+
+class CollisionResolver {
+};
+
+
+#endif //RIGIDBODIES_COLLISIONRESOLVER_H

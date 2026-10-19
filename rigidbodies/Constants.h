@@ -1,0 +1,8 @@
+//
+// Created by Dmitri on 2026-10-19.
+//
+
+#ifndef RIGIDBODIES_CONSTANTS_H
+#define RIGIDBODIES_CONSTANTS_H
+
+#endif //RIGIDBODIES_CONSTANTS_H

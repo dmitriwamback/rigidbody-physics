@@ -1,0 +1,8 @@
+//
+// Created by Dmitri on 2026-10-19.
+//
+
+#ifndef RIGIDBODIES_PHYSICSTYPES_H
+#define RIGIDBODIES_PHYSICSTYPES_H
+
+#endif //RIGIDBODIES_PHYSICSTYPES_H
