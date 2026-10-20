@@ -6,7 +6,6 @@ set(CMAKE_CXX_STANDARD 20)
 add_executable(rigidbodies main.cpp
         rigidbodies/PhysicsTypes.h
         rigidbodies/Constants.h
-        rigidbodies/Collider.h
         src/Collider.cpp
         src/Collider.h
         src/Rigidbody.cpp
